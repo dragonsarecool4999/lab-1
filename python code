@@ -1,5 +1,5 @@
 def son():
-    user_input= input("How many times do you goon a day: ")
+    user_input= input("How many times do you goon a day: 69")
     goon = int(user_input)
     if goon > 10 :
         print("Congrats you're a master gooner")
